@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwirelessphonerepair.github.io/iPhone-Repair-Houston/sitemap.xml
